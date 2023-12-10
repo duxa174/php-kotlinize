@@ -9,7 +9,10 @@
   ],
   "autoload": {
     "psr-4": {
-      "Duxa174\\PhpKotlinize\\": "src"
+      "Duxa174\\PhpKotlinize\\": [
+        "cache/",
+        "src/"
+      ]
     }
   },
   "require": {
