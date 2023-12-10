@@ -1,0 +1,16 @@
+{
+  "name": "duxa174/php-kotlinize",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dolgushin Andrey",
+      "email": "a.s.dolgushin@yandex.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Duxa174\\PhpKotlinize\\": "src"
+    }
+  },
+  "require": {}
+}
