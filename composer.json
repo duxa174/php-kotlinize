@@ -12,5 +12,13 @@
       "Duxa174\\PhpKotlinize\\": "src"
     }
   },
-  "require": {}
+  "require": {
+    "php": ">=7.4",
+    "mrsuh/php-generics": "1.3"
+  },
+  "config": {
+    "allow-plugins": {
+      "mrsuh/php-generics": true
+    }
+  }
 }
